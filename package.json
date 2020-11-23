@@ -1,0 +1,18 @@
+{
+  "name": "completeform",
+  "version": "1.0.0",
+  "description": "hum form bna rahe hai jo ki db m save hoga register krna hoga and then login krlo jisse register kiye the",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ankit",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "mongoose": "^5.10.15",
+    "nodemon": "^2.0.6"
+  }
+}
